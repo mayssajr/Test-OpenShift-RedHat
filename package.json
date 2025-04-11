@@ -1,0 +1,15 @@
+{
+  "name": "tp5",
+  "version": "1.0.0",
+  "description": "tp_openshift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "FISE2",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
